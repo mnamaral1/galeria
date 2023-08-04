@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(255, 255, 165);
+    background-color: rgb(26, 59, 158);
 }
 
 .image{
@@ -12,8 +12,7 @@ h1,h2 {
  color: blue;
 }
 
-body {
-    background-color: rgb(15, 253, 7);
+
 }
 
 img {
@@ -42,5 +41,4 @@ img:hover{
     background-color: #3619c5; 
     color: white;
   }
-   
    

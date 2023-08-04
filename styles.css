@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(26, 59, 158);
+    background-color: rgb(27, 125, 195);
 }
 
 .image{
@@ -13,7 +13,6 @@ h1,h2 {
 }
 
 
-}
 
 img {
     display: block;
@@ -41,4 +40,7 @@ img:hover{
     background-color: #3619c5; 
     color: white;
   }
+   
+   
+
    

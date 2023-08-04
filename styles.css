@@ -1,3 +1,4 @@
+
 body {
     background-color: rgb(255, 255, 165);
 }
@@ -10,6 +11,23 @@ body {
 h1 {
  color: blue;
 }
+
+body {
+    background-color: rgb(255, 255, 165);
+}
+
+.image{
+    border: 5px solid green;
+    border-radius: 10px;
+    height: 400px;
+}
+
+
+img:hover{
+    transform: scale(1.1);
+    transition-duration: 0.4s
+
+
 .link-button {
     text-decoration: none;
     color: black;
@@ -18,4 +36,9 @@ h1 {
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
+    transition: background-color 0.3s, color 0.3 ;
 }
+.link-button:hover {
+    background-color: #3619c5; 
+    color: white;
+  }

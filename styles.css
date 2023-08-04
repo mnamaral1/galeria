@@ -7,7 +7,9 @@ body {
     border-radius: 10px;
     height: 400px;
 }
-
+h1 {
+ color: blue;
+}
 .link-button {
     text-decoration: none;
     color: black;

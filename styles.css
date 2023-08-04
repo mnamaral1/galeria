@@ -26,7 +26,7 @@ body {
 img:hover{
     transform: scale(1.1);
     transition-duration: 0.4s
-
+  }
 
 .link-button {
     text-decoration: none;
@@ -42,3 +42,4 @@ img:hover{
     background-color: #3619c5; 
     color: white;
   }
+   

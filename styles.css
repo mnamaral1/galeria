@@ -16,4 +16,11 @@ body {
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
+    transition: background-color 0.3s, color 0.3 ;
+}
+.link-button:hover {
+    background-color: #3619c5; 
+    color: white; 
+   
+    
 }

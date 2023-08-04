@@ -1,3 +1,4 @@
+
 body {
     background-color: rgb(255, 255, 165);
 }
@@ -8,6 +9,12 @@ body {
     height: 400px;
 }
 
+
+img:hover{
+    transform: scale(1.1);
+    transition-duration: 0.4s
+
+
 .link-button {
     text-decoration: none;
     color: black;
@@ -16,8 +23,9 @@ body {
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
+    transition: background-color 0.3s, color 0.3 ;
 }
-img:hover{
-    transform: scale(1.1);
-    transition-duration: 0.4s;
+.link-button:hover {
+    background-color: #3619c5; 
+    color: white; 
 }

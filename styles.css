@@ -1,11 +1,5 @@
-
 body {
     background-color: rgb(255, 255, 165);
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-
-h1,h2{
-    text-align: center;
 }
 
 .image{
@@ -22,6 +16,11 @@ h1,h2{
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
+    transition: background-color 0.3s, color 0.3 ;
 }
-
-
+.link-button:hover {
+    background-color: #3619c5; 
+    color: white; 
+   
+    
+}

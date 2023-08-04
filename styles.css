@@ -13,10 +13,14 @@ h1,h2 {
 }
 
 body {
-    background-color: rgb(255, 255, 165);
+    background-color: rgb(15, 253, 7);
 }
 
-
+img {
+    display: block;
+    width: 60%;
+    margin: auto;
+  }
 
 
 img:hover{
@@ -38,4 +42,5 @@ img:hover{
     background-color: #3619c5; 
     color: white;
   }
+   
    
